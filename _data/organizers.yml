@@ -1,0 +1,40 @@
+- name: Kuanqi Cai
+  webpage: https://kuanqicai.github.io
+  affil: IIT \& EPFL
+  affil_link: https://hri.iit.it/
+  img: Kuanqi_Cai.jpg
+
+- name: Hanjing Ye
+  webpage: https://medlartea.github.io
+  affil: SUSTech
+  affil_link: https://rcvlab.eee.sustech.edu.cn/
+  img: Hanjing_Ye.jpg
+
+- name: Jianzhuang Zhao
+  webpage: https://hri.iit.it/our-staff-details/-/people/jianzhuang-zhao
+  affil: IIT
+  affil_link: https://hri.iit.it/
+  img: avatar.jpg
+
+- name: Jen Jen Chung
+  webpage: https://jenjenchung.github.io/anthropomorphic
+  affil: The University of Queensland
+  img: avatar.jpg
+
+- name: Hong Zhang
+  webpage: https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en
+  affil: SUSTech
+  affil_link: https://rcvlab.eee.sustech.edu.cn/
+  img: Hong_Zhang.png
+
+- name: Aude Billard
+  webpage: http://lasa.epfl.ch/people/member.php?SCIPER=115671
+  affil: EPFL
+  affil_link: http://lasa.epfl.ch/people/member.php?SCIPER=115671
+  img: Aude_Billard.png
+
+- name: Arash Ajoudani
+  webpage: https://www.iit.it/people-details/-/people/arash-ajoudani
+  affil: UT Austin
+  affil_link: https://hri.iit.it/
+  img: Arash_Ajoudani.jpeg

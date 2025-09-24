@@ -1,0 +1,271 @@
+- speaker: Organizers
+  title: Opening Remarks
+  time: 08:45 - 09:00
+  img: jane.jpg
+  type: keynote
+  description: "<p>Welcome and Introduction by the organizers</p>"
+
+- speaker: Wolfram Burgard
+  title: Keynote Talk 1
+  speaker_webpage: "https://www.utn.de/person/wolfram-burgard-2/"
+  affliation: University of Technology Nuremberg
+  time: 09:00 - 09:25
+  img: Wolfram_Burgard.jpg
+  type: keynote
+  description: "<p>The Challenges to Realize Embodied AI</p>"
+
+- speaker: Adriana TAPUS
+  title: Keynote Talk 2
+  speaker_webpage: "https://perso.ensta-paris.fr/~tapus/eng/"
+  affliation: Institut Polytechnique de Paris
+  time: 09:25 - 09:50
+  img: Adriana_Tapus.jpg
+  type: keynote
+  description: "<p>The role of engagement and cognitive load in social robotics</p>"
+
+- speaker: He Wang
+  title: Keynote Talk 3
+  speaker_webpage: "https://hughw19.github.io/"   # 如果有正确主页可以替换
+  affliation: Peking University
+  time: 09:50 - 10:15
+  img: He_Wang.jpg
+  type: keynote
+  description: "<p>Synthetic-Data-driven Vision-Language-Action Models for Navigation and Manipulation</p>"
+
+- speaker: Coffee Break & Poster Session
+  title: Coffee Break & Poster Session
+  time: 10:15 - 10:45
+  # img: coffee.jpg
+  type: break
+  description: "<p>Coffee break & poster session</p>"
+
+- speaker: Peter Stone
+  title: Keynote Talk 4
+  speaker_webpage: "https://www.cs.utexas.edu/~pstone/"
+  affliation: University of Texas at Austin
+  time: 10:45 - 11:10
+  img: Peter_Stone.jpg
+  type: keynote
+  description: "<p>Leveraging Human Social Navigation Prowess for Robot Social Navigation</p>"
+
+- speaker: Phani Teja Singamaneni
+  title: Keynote Talk 5
+  speaker_webpage: "https://www.ptsingamaneni.com/"  # 待确认
+  affliation: LAAS-CNRS
+  time: 11:10 - 11:35
+  img: Phani_Teja_Singamaneni.jpeg
+  type: keynote
+  description: "<p>Looking from the human's side: Towards legible social robot navigation and new metrics</p>"
+
+- speaker: Poster Session
+  title: Poster Session
+  time: 11:35 - 12:00
+  img: poster.jpg
+  type: poster
+  description: "<p>Poster session</p>"
+
+- speaker: Panel Discussion
+  title: Panel Discussion
+  time: 12:00 - 12:20
+  img: panel.jpg
+  type: panel
+  description: "<p>Panel discussion</p>"
+
+- speaker: Award Ceremony & Conclusion
+  title: Award Ceremony & Conclusion
+  time: 12:20 - 12:40
+  img: award.jpg
+  type: closing
+  description: "<p>Award ceremony and conclusion</p>"
+
+# - speaker: Authors of contributions
+#   title: Spotlight Talks of Contributed Papers
+#   time: 09:40 - 10:45
+#   img: jane.jpg
+#   type: spotlight
+#   description: |
+#     <a href='/contributions' onclick="toggleTab1(event, 'tab-content-1')">Details</a>
+#     <style>
+#       #tab-content-1 {
+#         display: none;
+#         margin-top: 10px;
+#         padding: 15px;
+#         border: 1px solid #ddd;
+#         border-radius: 8px;
+#         background-color: #fdfdfd;
+#         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+#         font-family: Arial, sans-serif;
+#         color: #333;
+#         text-align: left;
+#       }
+#       #tab-content-1 ul {
+#         list-style-type: disc;
+#         padding-left: 20px;
+#         margin: 0;
+#       }
+#       #tab-content-1 li {
+#         margin-bottom: 8px;
+#         line-height: 1.6;
+#       }
+#       #tab-content-1 li span {
+#         font-weight: bold;
+#         color: #0073e6;
+#       }
+#     </style>
+#     <div id="tab-content-1">
+#       <ul>
+#         <li><span>Azizul Zahid:</span> Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning</li>
+#         <li><span>Haonan Chen:</span> Tool-as-Interface: Learning Robot Tool Use from Human Play through Imitation Learning</li>
+#         <li><span>Kushal Kedia:</span> One-Shot Imitation under Mismatched Execution</li>
+#         <li><span>Shuijing Liu:</span> DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding</li>
+#         <li><span>Xuefei Sun:</span> Spatial-LLaVA: Enhancing Large Language Models with Spatial Referring Expressions for Visual Understanding</li>
+#         <li><span>Noriaki Hirose:</span> Learning to Drive Anywhere with Model-Based Reannotation</li>
+#         <li><span>Allan Wang:</span> Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People</li>
+#         <li><span>Peiqi Liu:</span> DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation</li>
+#         <li><span>Xingeu Zhou:</span> Curate, Connect, Inquire: A System for Findable Accessible Interoperable and Reusable (FAIR) Human-Robot Centered Datasets</li>
+#         <li><span>David Paulius:</span> Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</li>
+#         <li><span>Alessio Galatolo (Remote):</span> Look, Think, Understand: Multimodal Reasoning for Socially-Aware Robotics</li>
+#         <li><span>Wang Rundong (Remote/Video):</span> RoboMAN: Human-like Compliance Manipulation for Electronics Assembly via an Online Memory-Augmented Network</li>
+#       </ul>
+#     </div>
+#     <script>
+#       function toggleTab1(event, tabId) {
+#         event.preventDefault();
+#         const tabContent = document.getElementById(tabId);
+#         if (tabContent.style.display === "none" || tabContent.style.display === "") {
+#           tabContent.style.display = "block";
+#         } else {
+#           tabContent.style.display = "none";
+#         }
+#       }
+#     </script>
+
+# - speaker: null
+#   title: Coffee Break and Poster Session
+#   time: 10:45 - 11:15
+#   img: jane.jpg
+#   type: break
+
+# - speaker: Jens Kober
+#   title: Keynote Talk 3
+#   speaker_webpage: "https://www.tudelft.nl/staff/j.kober/"
+#   affliation: TU Delft
+#   time: 11:15 - 11:50
+#   img: jens_kober.jpg
+#   type: keynote
+#   description: "<p>Learning from Intuitive Interactions with Human Teachers</p>"
+
+# - speaker: Harold Soh
+#   title: Keynote Talk 4
+#   speaker_webpage: "https://haroldsoh.com/"
+#   affliation: National University of Singapore
+#   time: 11:50 - 12:25
+#   img: harold_soh.jpg
+#   type: keynote
+#   description: "<p>(Tentative) Rethinking Social, Task, and Motion Planning with Foundation Models</p>"
+
+# - speaker: null
+#   title: Lunch Break
+#   time: 12:25 - 13:20
+#   img: jane.jpg
+#   type: break
+
+# - speaker: Andrea Bajcsy
+#   title: Keynote Talk 5
+#   speaker_webpage: "https://www.ri.cmu.edu/ri-faculty/andrea-bajcsy/"
+#   affliation: Carnegie Mellon University
+#   time: 13:20 - 13:55
+#   img: andrea_bajcsy.jpg
+#   type: keynote
+#   description: "<p>What Can Robot Safety Learn from LLM Safety?</p>"
+
+# - speaker: Matthew Gombolay
+#   title: Keynote Talk 6
+#   speaker_webpage: "https://core-robotics.gatech.edu/people/matthew-gombolay/"
+#   affliation: Georgia Institute of Technology
+#   time: 13:55 - 14:30
+#   img: matthew_gombolay.jpg
+#   type: keynote
+#   description: "<p>Value Alignment and Safety in Human-Robot Interactive and Explainable Learning with Models Big and Small</p>"
+
+# - speaker: Authors of contributions
+#   title: Spotlight Talks of Contributed Papers
+#   time: 14:30 - 15:30
+#   img: jane.jpg
+#   type: spotlight
+#   description: |
+#     <a href='/contributions' onclick="toggleTab2(event, 'tab-content-2')">Details</a>
+#     <style>
+#       #tab-content-2 {
+#         display: none;
+#         margin-top: 10px;
+#         padding: 15px;
+#         border: 1px solid #ddd;
+#         border-radius: 8px;
+#         background-color: #fdfdfd;
+#         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+#         font-family: Arial, sans-serif;
+#         color: #333;
+#         text-align: left;
+#       }
+#       #tab-content-2 ul {
+#         list-style-type: disc;
+#         padding-left: 20px;
+#         margin: 0;
+#       }
+#       #tab-content-2 li {
+#         margin-bottom: 8px;
+#         line-height: 1.6;
+#       }
+#       #tab-content-2 li span {
+#         font-weight: bold;
+#         color: #0073e6;
+#       }
+#     </style>
+#     <div id="tab-content-2">
+#       <ul>
+#         <li><span>Shenghui Chen:</span> Learning Human Perception Dynamics for Informative Robot Communication</li>
+#         <li><span>Michael Munje:</span> SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation</li>
+#         <li><span>Jiageng Mao:</span> Universal Humanoid Robot Pose Learning from Internet Human Videos</li>
+#         <li><span>Yaru Niu:</span> Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining</li>
+#         <li><span>Siddhant Haldar:</span> Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation</li>
+#         <li><span>Bukeikhan Omarali:</span> From Gaze to Action: Leveraging Affordance Grounding for Human Intention Understanding</li>
+#         <li><span>Weiwei Gu:</span> Continual Robot Skill and Task Learning via Dialogue</li>
+#         <li><span>Maithili Patel:</span> Robot Behavior Personalization from Sparse User Feedback</li>
+#         <li><span>Kartik Ramachandruni:</span> PARSEC: Preference Adaptation for Robotic Object Rearrangement from Scene Context</li>
+#         <li><span>Yunfan Jiang (Remote):</span> BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</li>
+#         <li><span>Zichao Hu (Remote):</span> ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion</li>
+#         <li><span>Amanuel Ergogo (Remote):</span> Towards Embodied Agent Intent Explanation in Human-Robot Collaboration: ACT Error Analysis and Solution Conceptualization</li>
+#       </ul>
+#     </div>
+#     <script>
+#       function toggleTab2(event) {
+#         event.preventDefault();
+#         const tabContent = document.getElementById("tab-content-2");
+#         if (tabContent.style.display === "none" || tabContent.style.display === "") {
+#           tabContent.style.display = "block";
+#         } else {
+#           tabContent.style.display = "none";
+#         }
+#       }
+#     </script>
+
+# - speaker: null
+#   title: Coffee Break and Poster Session
+#   time: 15:30 - 16:00
+#   img: jane.jpg
+#   type: break
+
+# - speaker: All Speakers
+#   title: Panel Discussion
+#   time: 16:00 - 17:00
+#   img: jane.jpg
+#   type: panel
+#   description: "<p>Panel Discussion with Keynote Speakers</p>"
+
+# - speaker: Organizers
+#   title: Closing Remarks
+#   time: 17:00 - 17:10
+#   img: jane.jpg
+#   type: keynote
+#   description: "<p>Closing Remarks by Workshop Organizers</p>"
