@@ -99,7 +99,7 @@ We emphasize interdisciplinary collaboration across robotics, HRI, cognitive sci
         <p><strong>We are pleased to present:</strong></p>
         <ul style="margin: 0.5em 0 1em 1.2em;">
             <li>Two <strong>Best Workshop Paper Awards</strong> (150 USD each), sponsored by <em>Galbot Co., Ltd</em></li>
-            <li>Three <strong>Second Best Workshop Paper Awards</strong> (50 USD each), sponsored by <em>albot Co., Ltd</em></li>
+            <li>Three <strong>Second Best Workshop Paper Awards</strong> (50 USD each), sponsored by <em>Galbot Co., Ltd</em></li>
         </ul>
         <p>Winners will receive the monetary prize and a certificate.</p>
     </div>
