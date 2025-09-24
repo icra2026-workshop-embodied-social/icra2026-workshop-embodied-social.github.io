@@ -68,12 +68,12 @@ We emphasize interdisciplinary collaboration across robotics, HRI, cognitive sci
 
 <section id="papers">
     <h2 class="mb-3">Call For Papers</h2>
-    <p>Submission deadline: <s>April 6th, 11:59pm AOE, 2026</s> <b>April 7th, 11:59pm AOE, 2026</b></p>
-    <p>Review and decision: <b>April 20th, 2026</b></p>
-    <p>Camera-ready deadline: <b>May 11th, 2026</b></p>
-    <div class="submission-box">
-    <a href="">Openreview Submission Link</a>
-    </div>
+    <!-- <p>Submission deadline: <s>April 6th, 11:59pm AOE, 2026</s> <b>April 7th, 11:59pm AOE, 2026</b></p> -->
+    <!-- <p>Review and decision: <b>April 20th, 2026</b></p> -->
+    <!-- <p>Camera-ready deadline: <b>May 11th, 2026</b></p> -->
+    <!-- <div class="submission-box"> -->
+    <!-- <a href="">Openreview Submission Link</a> -->
+    <!-- </div> -->
     <br>
      We invite submissions of extended abstracts and position papers (2–4 pages, excluding acknowledgements and references) in the IEEE Conference format. In addition, we welcome video and demo submissions that showcase innovative approaches in manipulation. The related topics include but are not limited to:
     <ul style="display:grid; grid-template-columns:1fr 1fr; gap:0.5em 2em; list-style-type: disc; padding-left: 1.2em;">
