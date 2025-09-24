@@ -179,7 +179,7 @@ function updateTimeDisplay(timeZone) {
         }
         if (timezoneInfo) {
             const city = getCityFromTimezone(timeZone);
-            const displayCity = city === "New York" ? "Atlanta" : city;
+            const displayCity = city === "New York" ? "Vienna" : city;
             timezoneInfo.textContent = `(${displayCity})`;
         }
 

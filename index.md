@@ -47,7 +47,7 @@ We emphasize interdisciplinary collaboration across robotics, HRI, cognitive sci
     <h2 class="mb-4">Speakers</h2>
     <div class="row">
         {% for speaker in site.data.speakers %}
-        <div class="col-lg-3 col-md-4 mb-3">
+        <div class="col-lg-4 col-md-4 mb-3">
             <div class="card h-100">
                 <div class="card-img-container mx-auto">
                     <img src="{{ site.baseurl | append: '/assets/img/speakers/' | append: speaker.img }}" class="card-img-top rounded-img mx-auto" alt="{{ speaker.name }}">
@@ -209,7 +209,7 @@ We emphasize interdisciplinary collaboration across robotics, HRI, cognitive sci
     <div class="row">
         {% for organizer in site.data.organizers %}
             {% unless organizer.is_advisor %}
-                <div class="col-lg-2 col-md-4 col-sm-6 mb-4">
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="card h-100">
                         <div class="card-img-container mx-auto">
                             <img src="{{ site.baseurl | append: '/assets/img/organizers/' | append: organizer.img }}" class="card-img-top rounded-img mx-auto" alt="{{ organizer.name }}">
