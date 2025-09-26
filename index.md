@@ -25,9 +25,9 @@ layout: home
 <br>
 <br>
 
-Recent advances in sensing, actuation, and autonomy have enabled robots to move from labs into homes, clinics, stores, warehouses, and outdoor spaces. Service robots can navigate, assist, and collaborate with people, yet performance in constrained environments remains limited. Systems built for scripted interactions lack situational awareness, memory, and normative reasoning to personalize to families, negotiate hospital corridors, follow individuals in supermarkets, or generalize across scenarios. Foundation models and neuro-symbolic methods are transforming vision, language, and planning, but safe embodied deployment is still emerging.
+Recent advances in sensing, actuation, and autonomy have enabled robots to move from labs into homes, clinics, stores, warehouses, and outdoor spaces. Service robots can navigate, assist, and collaborate with people, yet performance in constrained environments remains limited. Robotic systems that rely on predefined interaction scripts lack situational awareness, memory, and normative reasoning, making it difficult for them to personalize to families, navigate hospital corridors, follow individuals in supermarkets, or generalize across diverse scenarios. Foundation models are transforming vision, language, and planning, but safe embodied deployment is still emerging.
 
-This workshop asks: How can we achieve scenario-oriented embodied social intelligence that integrates multimodal perception, ethical decision making, and physical interaction; supports specialized models when needed; yet enables unified representations transferable across settings? 
+This workshop asks: How can we achieve scenario-oriented embodied social intelligence that integrates multimodal perception, ethical decision making, and physical interaction; supports specialized models when needed; yet enables unified representations transferable across settings?
 
 Discussions will focus on a comprehensive set of challenges and solutions, with expert-led insights into:
 <ol>
